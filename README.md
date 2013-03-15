@@ -3,6 +3,12 @@ mimic
 
 Raspberry Pi Python project that reads 1 pixel of data from a webcam and outputs that pixel's color to an LED strip
 
+Instructions
+======
+# install dependencies
+# plug in webcam & connect LED strip
+# run "sudo python mimic.py" (sudo is necessary to access the SPI hardware)
+
 RPI Dependencies
 =====
 * AdaFruit Occidentalis v0.2 distribution - http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-2
