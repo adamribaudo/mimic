@@ -5,9 +5,9 @@ Raspberry Pi Python project that reads 1 pixel of data from a webcam and outputs
 
 Instructions
 ======
-# install dependencies
-# plug in webcam & connect LED strip
-# run "sudo python mimic.py" (sudo is necessary to access the SPI hardware)
+* install dependencies
+* plug in webcam & connect LED strip
+* run "sudo python mimic.py" (sudo is necessary to access the SPI hardware)
 
 RPI Dependencies
 =====
